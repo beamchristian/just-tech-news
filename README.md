@@ -1,3 +1,3 @@
 # just-tech-news
 
-Deployement: https://floating-ocean-25296.herokuapp.com/
+Deployment: https://floating-ocean-25296.herokuapp.com/
